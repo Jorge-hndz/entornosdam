@@ -2,4 +2,4 @@
 Repositorio de pruebas de Entornos de Desarrollo curso 2024-2025
 
 ### Principal
-Ahora Principal.java muestra la fecha y la hora
+Ahora Principal.java pide un numero de usuarios y su informacion y lo muestra
